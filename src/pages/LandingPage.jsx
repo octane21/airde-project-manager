@@ -245,7 +245,7 @@ function LandingPage() {
             </a>
           </div>
         </div>
-        <div className="container footer-bottom">www.airdeacademy.com</div>
+        <div className="container footer-bottom">airde-project-manager.vercel.app/</div>
       </footer>
     </>
   )
